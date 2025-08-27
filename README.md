@@ -27,4 +27,25 @@ It’s designed with clean UI, responsive layout, and smooth navigation using **
 ---
 
 ## 📂 Project Structure
+src/
+├── components/
+│ ├── Home.jsx # Welcome page
+│ ├── SignUp.jsx # Registration form
+│ ├── Login.jsx # Login form
+│ └── Profile.jsx # Profile details
+├── App.jsx # Routes configuration
+├── style.css # Global styles (Tailwind)
+└── main.jsx # Entry point
+
+
+---
+
+## ⚙️ Installation & Setup
+
+ **Clone the repository**
+   ```bash
+   git clone (https://github.com/Abdul-Samad-75/EducaseIndia.git)
+   cd vite-project
+   npm install
+   npm run dev
 
