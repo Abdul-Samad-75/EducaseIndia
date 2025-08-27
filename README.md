@@ -26,19 +26,6 @@ It’s designed with clean UI, responsive layout, and smooth navigation using **
 
 ---
 
-## 📂 Project Structure
-src/
-├── components/
-│ ├── Home.jsx # Welcome page
-│ ├── SignUp.jsx # Registration form
-│ ├── Login.jsx # Login form
-│ └── Profile.jsx # Profile details
-├── App.jsx # Routes configuration
-├── style.css # Global styles (Tailwind)
-└── main.jsx # Entry point
-
-
----
 
 ## ⚙️ Installation & Setup
 
