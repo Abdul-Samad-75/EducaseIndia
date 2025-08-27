@@ -1,4 +1,4 @@
-# 🌟 PopX React Application
+# 🌟 PopX React Application (https://fascinating-torrone-aee5d2.netlify.app/)
 
 This is a **React + Tailwind CSS** based frontend project that simulates a simple authentication flow with pages for **Home**, **Sign Up**, **Login**, and **Profile**.  
 It’s designed with clean UI, responsive layout, and smooth navigation using **React Router DOM**.
